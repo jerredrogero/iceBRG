@@ -1,1 +1,1 @@
-web: gunicorn icebrg1.wsgi --log-file -
+web: gunicorn main:icebrg1.wsgi --log-file -
