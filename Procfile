@@ -1,0 +1,1 @@
+web: gunicorn icebrg1.wsgi --log-file -
